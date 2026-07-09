@@ -54,13 +54,13 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
+  <a href="0amirzero0@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/YOUR_TELEGRAM_ID" target="_blank">
+  <a href="https://t.me/Amir_Zero0_0" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM_ID" target="_blank">
+  <a href="https://instagram.com/AmirSafari0_0" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -69,6 +69,6 @@
 
 ### 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="AmirZero Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=0AmirZero0&show_icons=true&theme=radical" alt="0AmirZero0 Stats" />
 
 </div>
